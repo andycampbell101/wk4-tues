@@ -10,3 +10,4 @@ CREATE TABLE works (
 	worktype VARCHAR(30),
 	date TIMESTAMP
 );
+
